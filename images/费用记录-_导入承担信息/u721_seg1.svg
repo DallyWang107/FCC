@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" preserveAspectRatio="xMinYMid meet" viewBox="2012 1018  18 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip19">
+      <path d="M 1988 1013  L 2018 1013  L 2018 1038  L 1988 1038  Z M 1983 1013  L 2031 1013  L 2031 1038  L 1983 1038  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 1988 1026.5  L 1983 1026.5  M 2018 1026.5  L 2021.5 1026.5  " stroke-width="1" stroke-dasharray="3,1" stroke="#000000" fill="none" />
+  <path d="M 2016.44644660941 1021.85355339059  L 2021.09289321881 1026.5  L 2016.44644660941 1031.14644660941  L 2017.15355339059 1031.85355339059  L 2022.15355339059 1026.85355339059  L 2022.50710678119 1026.5  L 2022.15355339059 1026.14644660941  L 2017.15355339059 1021.14644660941  L 2016.44644660941 1021.85355339059  Z " fill-rule="nonzero" fill="#000000" stroke="none" mask="url(#clip19)" />
+</svg>
